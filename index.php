@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+
+<html lang="">
+
+<head>
+<title>PERPUSTAKAAN PANCA BHAKTI</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+
+
+
+<div class="wrapper row0">
+  
+</div>
+
+
+
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+
+   <article id="pageintro1" class="hoc clear">
+    <div class="hoc clear"> 
+    
+      <h2 class="heading">LAYANAN INFORMASI PERPUSTAKAAN</h2>
+      
+      
+      </article>
+   
+  </div>
+  </header>
+</div>
+
+
+
+<!-- Top Background Image Wrapper -->
+<div class="bgded" style="background-image:url('images/perpus.jpeg');"> 
+  
+  <div class="wrapper row2">
+    <nav id="mainav" class="hoc clear"> 
+      
+      <ul class="clear">
+        <li class="active"><a href="index.php">Home</a></li>
+        <li><a class="drop" href="#">Pages</a>
+          <ul>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="#">Full Width</a></li>
+            <li><a href="#">Sidebar Left</a></li>
+            <li><a href="#">Sidebar Right</a></li>
+            <li><a href="#">Basic Grid</a></li>
+          </ul>
+        </li>
+        <li><a class="drop" href="#">Dropdown</a>
+          <ul>
+            <li><a href="#">Level 2</a></li>
+            <li><a class="drop" href="#">Level 2 + Drop</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Link Text</a></li>
+        <li><a href="#">Link Text</a></li>
+        <li><a href="#">Link Text</a></li>
+        <li><a href="#">Long Link Text</a></li>
+      </ul>
+      
+    </nav>
+  </div>
+  
+  
+  
+  <div class="wrapper overlay">
+    <article id="pageintro" class="hoc clear"> 
+      
+     <img src="images/logo.png" />
+	  <h3 class="heading">UNIT PELAKSANA TEKNIS PERPUSTAKAAN
+PANCA BHAKTI BANDAR LAMPUNG 
+</h3>
+
+
+      <p>Web ini telah kami lengkapi dengan <b>AR</b> <i>(augmented reality)</i> diharapkan dapat meningkatkan kesan anda dalam berinteraksi dengan layanan UPT Perpustakaan</p>
+      <footer><a class="btn" href="pages/full-width.php">Fitur <b>AR</b> <i>(augmented reality)</i></a></footer>
+      
+    </article>
+  </div>
+  
+</div>
+<!-- End Top Background Image Wrapper -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear"> 
+    
+    <div class="one_third first">
+      <h6 class="heading"></h6>
+      <ul class="nospace btmspace-30 linklist contact">
+        <li><i class="fa fa-map-marker"></i>
+          <address>
+          
+          </address>
+        </li>
+        <li><i class="fa fa-phone"></i> </li>
+        <li><i class="fa fa-envelope-o"></i> </li>
+      </ul>
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a class="faicon-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a class="faicon-dribble" href="#"><i class="fa fa-dribbble"></i></a></li>
+        <li><a class="faicon-linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+        <li><a class="faicon-google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+        <li><a class="faicon-vk" href="#"><i class="fa fa-vk"></i></a></li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading"></h6>
+      <ul class="nospace linklist">
+        <li>
+          <article>
+            <h2 class="nospace font-x1"><a href="#"></a></h2>
+            <time class="font-xs block btmspace-10" datetime="2045-04-06"></time>
+            <p class="nospace"></p>
+          </article>
+        </li>
+        <li>
+          <article>
+            <h2 class="nospace font-x1"><a href="#"></a></h2>
+            <time class="font-xs block btmspace-10" datetime="2045-04-05"></time>
+            <p class="nospace"></p>
+          </article>
+        </li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading"></h6>
+      <p class="nospace btmspace-30"></p>
+      <form method="post" action="#">
+        <fieldset>
+          <legend></legend>
+          <input class="btmspace-15" type="text" value="" placeholder="Name">
+          <input class="btmspace-15" type="text" value="" placeholder="Email">
+          <button type="submit" value="submit"></button>
+        </fieldset>
+      </form>
+    </div>
+    
+  </footer>
+</div>
+
+
+
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    
+   
+    
+  </div>
+</div>
+
+
+
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>
